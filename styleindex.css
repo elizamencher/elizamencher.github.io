@@ -41,7 +41,7 @@ background-color {#F4DBDB}
   height: 175px;
   position: absolute;
   z-index: 3;
-  right:735px;
+  right:750px;
   top: 80px;
   transform: rotate(340deg);
 }
@@ -99,7 +99,7 @@ background-color {#F4DBDB}
   height: 175px;
   position: absolute;
   z-index: 3;
-  left:690px;
+  left:715px;
   top: 40px;
   transform: rotate(10deg);
 }
