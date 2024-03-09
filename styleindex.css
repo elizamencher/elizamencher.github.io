@@ -1,0 +1,301 @@
+background-color {#F4DBDB}
+.eliza {
+	font-family: Arial;
+	color: white;
+	text-align: center;
+	height: 100px; /* Adjust the height as needed */
+    line-height: 40px; 
+}
+.color-box {
+	background-color: #F39005;
+	width: 350px;
+	height: 40px;
+}
+.linked {
+  position: absolute;
+  left: 20px;
+  font-family: Arial;
+  color: #FB8DB4;
+}
+.rectangle {
+  width: 450px;
+  height: 350px;
+  background-color: #FB8DB4;
+  z-index: 2;
+  position: absolute;
+  left: 450px;
+  right: 200px;
+  top:300px;
+}
+.rectangle2 {
+  width: 400px;
+  height: 300px;
+  background-color: white;
+  z-index: 3;
+  position: absolute;
+  left: 475px;
+  right: 200px;
+  top:325px;
+}
+.bow{ width: 175px;
+  height: 175px;
+  position: absolute;
+  z-index: 3;
+  right:745px;
+  top: 80px;
+  transform: rotate(340deg);
+}
+
+.left {
+	width: 550px;
+	height: 600px;
+	position: absolute;
+    top: 160px;
+    left: 0;
+    bottom: 0px;
+    z-index: 1;
+}
+.Photoshop {
+	color: #CE101D;
+	position: absolute;
+    top: 10px;
+    right: 30px; 
+    text-decoration: none;
+    font-family: Arial;
+}
+.Merchandise {
+	color: #CE101D;
+	position: absolute;
+    top: 10px;
+    right: 30px; 
+    text-decoration: none;
+    font-family: Arial;
+}
+.ThreeD {
+	color: #CE101D;
+	position: absolute;
+    top: 10px;
+    right: 120px; 
+    text-decoration: none;
+    font-family: Arial;
+}
+.Courses {
+	color: #CE101D;
+	position: absolute;
+    top: 10px;
+    right: 165px; 
+    text-decoration: none;
+    font-family: Arial;
+}
+.right {width: 600px;
+	height: 750px;
+	position: absolute;
+    top: 100px;
+    right: 0px;
+    bottom: 100px;
+	z-index: 1
+}
+.redbow {width: 175px;
+  height: 175px;
+  position: absolute;
+  z-index: 3;
+  left:700px;
+  top: 40px;
+  transform: rotate(10deg);
+}
+.aboutme {
+  width: 350px;
+  position: absolute;
+  left: 500px;
+  top: 375px;
+  z-index: 4;
+  font-family: Arial;
+  font-weight: bold;
+}
+.header{
+  position: absolute;
+  left: 597px;
+  top: 325px;
+  z-index: 5;
+  color: #F39005;
+}
+.courses2 {
+  font-family: Arial;
+  position: absolute;
+  left: 35px;
+  color: white;
+  text-align: center;
+  line-height: 10px;
+}
+.box {
+  background-color: #FB8DB4;
+  width: 150px;
+  height: 50px;
+}
+.intro {
+  position: absolute;
+  top: 75px;
+  text-align: center;
+  right: 2px;
+  font-family: Arial;
+  color: #CE101D;
+  background-color: white ;
+}
+.art {
+  font-family: Arial;
+  position: absolute;
+  left: 200px;
+  top: 175px;
+  text-align: center;
+  line-height: 75px;
+  background: #F4DBDB;
+  height: 75px;
+  width: 340px;
+}
+.description1 {
+  font-family: Arial;
+  position: absolute;
+  left: 540px;
+  top: 175px;
+  background-color: #F4BAC8;
+  height: 75px;
+  width: 650px;
+  text-align: center;
+  line-height: 40px;
+}
+.comarts155 {
+  font-family: Arial;
+  position: absolute;
+  left: 200px;
+  top: 255px;
+  text-align: center;
+  line-height: 40px;
+  background:#F4BAC8;
+  height: 75px;
+  width: 340px;
+}
+.description2 {
+  font-family: Arial;
+  position: absolute;
+  left: 540px;
+  top: 255px;
+  background-color: #F4DBDB;
+  height: 75px;
+  width: 650px;
+  text-align: center;
+  line-height: 25px;
+}
+.cnsrsci250 {
+  font-family: Arial;
+  position: absolute;
+  left: 200px;
+  top: 335px;
+  text-align: center;
+  line-height: 75px;
+  background:#F4DBDB;
+  height: 75px;
+  width: 340px;
+}
+.description3 {
+  font-family: Arial;
+  position: absolute;
+  left: 540px;
+  top: 335px;
+  background-color: #F4BAC8;
+  height: 75px;
+  width: 650px;
+  text-align: center;
+  line-height: 37px; 
+}
+.genbus106 {
+  font-family: Arial;
+  position: absolute;
+  left: 200px;
+  top: 415px;
+  text-align: center;
+  line-height: 37px;
+  background:#F4BAC8;
+  height: 75px;
+  width: 340px;
+}
+.description4 {
+  font-family: Arial;
+  position: absolute;
+  left: 540px;
+  top: 415px;
+  background-color: #F4DBDB;
+  height: 75px;
+  width: 650px;
+  text-align: center;
+  line-height: 37px; 
+}
+.three {
+  font-family: Arial;
+  position: absolute;
+  left: 40px;
+  color: white;
+  text-align: center;
+  line-height: 10px;
+}
+.box2 {
+  background-color: #FB8DB4;
+  width: 200px;
+  height: 50px;
+}
+
+.backyard {
+position: absolute;
+width: 625px;
+top: 200px;
+left:45px;
+}
+
+.pyramid {
+position: absolute;
+width: 550px;
+top: 200px; 
+right: 45px;
+}
+
+.mac {
+position: absolute;
+width: 600px;
+top: 175px;
+left: 45px;
+}
+
+.sweettart {
+position: absolute;
+width: 600px;
+top: 175px;
+right: 45px;
+}
+
+.bowhoodie {
+position: absolute;
+width: 600px;
+top: 625px;
+left: 45px;
+}
+
+.falling {
+position: absolute;
+width: 600px;
+top: 625px;
+right: 45px;
+}
+
+.set {
+position: absolute;
+width: 600px;
+top: 1075px;
+left: 45px;
+}
+
+.bluebow {
+position: absolute;
+width: 600px;
+top: 1075px;
+right: 45px;
+}
+
